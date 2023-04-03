@@ -1,0 +1,40 @@
+<table border="1">
+<tr>
+<th><a href="https://www.public.gr/cat/prosopiki-frontida-and-omorfia/syskeyes-peripoiisis/pistolakia?q=kataskeyasths:dyson">συακευή βασική</a>  μοντέλο μάρκα</th>
+<th><a href="https://www.public.gr/cat/prosopiki-frontida-and-omorfia/syskeyes-peripoiisis/pistolakia?q=kataskeyasths:dyson">συακευή που θελω να συνδιασω</a> , μοντέλο, μάρκα</th>
+</tr>
+<tr>
+<td><!-- Start Lifestyle -->
+<div align="center"><img src="//webstorage.public.gr/Product-Images/1726758/web3.jpg" alt="DYSON Supersonic™ HD07" width="10%"></div>
+<!-- End Lifestyle --></td>
+<td><div align="center"><img src="//webstorage.public.gr/Product-Images/1726758/web3.jpg" alt="DYSON Supersonic™ HD07" width="10%"></div></td>
+
+</tr>
+<tr>
+<td><strong>ειδικά χαρακτηριστικά</strong> <br><br/>
+<p>λίστα με χαρακτηριστκά</p>
+<ol>
+<li> λιστα 1   </li>
+<li> λιστα 2</li>
+<li> λιστα 3<ul>
+    <li> υπο-λιστα α</li>
+    <li> υπο-λιστα β</li>
+    <li> υπο-λιστα γ</li></li>
+</ol></td>
+<td><strong>ειδικά χαρακτηριστκά</strong><p>λίστα με χαρακτηριστκά</p>
+<ol>
+<li> λιστα 1   </li>
+<li> λιστα 2</li>
+<li> λιστα 3<ul>
+    <li> υπο-λιστα α</li>
+    <li> υπο-λιστα β</li>
+    <li> υπο-λιστα γ</li></li>
+</ol></td></td>
+</tr>
+
+</tr>
+<tr>
+<td>τιμή ή Media</td>
+<td>τιμή ή Media</td>
+</tr>
+</table>

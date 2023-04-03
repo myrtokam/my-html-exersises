@@ -1,0 +1,70 @@
+<a href="https://www.public.gr/cat/prosopiki-frontida-and-omorfia/syskeyes-peripoiisis/preses">
+ <img src="//webstorage.public.gr/Product-Images/MRK2196197/main.jpg" height="445"></center>"">
+</a>
+----------------------------------------------------------------------------------------------------
+<a href="https://www.public.gr/cat/prosopiki-frontida-and-omorfia/syskeyes-peripoiisis/preses">
+ <img alt="public.gr/cat/prosopiki-frontida-and-omorfia/syskeyes-peripoiisis/preses" src="//webstorage.public.gr/Product-Images/MRK2196197/main.jpg"">
+</a>
+
+-----------------------------------------------------------------------------------------------------------
+<div align="center"><img height="1500" src="https://webstorage.public.gr/Product-Images/MRK2196197/banner22.jpg" style="width:auto;" usemap="#image-map" widht="550" /><map name="image-map"><area alt="preses" coords="770,871,126" href="https://www.public.gr/cat/prosopiki-frontida-and-omorfia/syskeyes-peripoiisis/preses" shape="circle" target="_top" title="preses" /> <area alt="Ισιωτική Μαλλιών με Τεχνολογία Ατμού GM-1991 GEMEI Oem" coords="1445,325,903,793" href="https://www.public.gr/product/MRK2196197" shape="rect" target="_top" title="Ισιωτική Μαλλιών με Τεχνολογία Ατμού GM-1991 GEMEI Oem" /> <area alt="Ισιωτική Μαλλιών με Τεχνολογία Ατμού GM-1991 GEMEI Oem" coords="623,827,10,344" href="https://www.public.gr/product/MRK2196197" shape="rect" target="_top" title="Ισιωτική Μαλλιών με Τεχνολογία Ατμού GM-1991 GEMEI Oem" /> <area alt="Ισιωτική Μαλλιών με Τεχνολογία Ατμού GM-1991 GEMEI Oem Πράσινο" coords="550,469,1010,0" href="https://www.public.gr/product/MRK2196197" shape="rect" target="_top" title="Ισιωτική Μαλλιών με Τεχνολογία Ατμού GM-1991 GEMEI Oem" /></map></div>
+<!-- End Lifestyle -->
+--------------------------------------------------------------------------
+
+<a href="https://www.public.gr">
+<img alt="Public.gr" src="//webstorage.public.gr/Product-Images/MRK2196197/main.jpg">
+<style>
+  a {
+        display: block;
+    height:350px;
+    width:550px;
+  }
+</style>
+<a href="https://www.public.gr"></a>
+<style>
+  .link {
+        height:350px;
+    width:450px;
+  }
+</style>
+<script>
+  function goHome() {
+    return window.open("https://www.public.gr/cat/prosopiki-frontida-and-omorfia/syskeyes-peripoiisis/preses", "_blank")
+  }
+</script>
+<input type="button" class="link" onclick="goHome()"/>
+<img src="main.jpg" alt="Staff Organisation Chart" usemap="#Map">
+
+<map name="Map" id="Map">
+	<area
+		shape="rect"
+		coords="176,14,323,58"
+		href="…"
+		alt="Chairman"
+	>
+  <area 
+    shape="rect" 
+    coords="81,75,226,114" 
+    href="…"
+    alt="Secretary"
+  >
+  <area 
+    shape="rect" 
+    coords="6,138,155,182" 
+    href="…"
+    alt="Marketing Director"
+  >
+  <area 
+    shape="rect"
+    coords="175,138,323,182"
+    href="…"
+    alt="Sales Director"
+  >
+  <area
+    shape="rect" 
+    coords="345,136,496,186" 
+    href="…"
+    alt="Finance Director"
+  >
+</map>
+</a>
