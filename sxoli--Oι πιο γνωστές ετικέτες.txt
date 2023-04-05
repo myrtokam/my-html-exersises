@@ -1,0 +1,12 @@
+Oι πιο γνωστές ετικέτες
+•
+<section>
+•
+<aside>
+•
+<main>
+•
+<article>
+•
+(<
+figure>, <details>, <mark>

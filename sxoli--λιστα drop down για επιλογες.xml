@@ -1,0 +1,22 @@
+<form>
+
+<tr>
+    <td>
+        Χώρες
+    </td>
+    <td>
+        <select>
+<option>Ελλάδα</option>
+<option>Γαλλία</option>
+
+    </select>
+</td>
+</tr><br>
+
+           <tr>
+            <td colspan="2">
+                <input type="submit">
+                </form>
+        </td>
+        </tr>
+</form>
